@@ -1,0 +1,14 @@
+{
+  "name": "roll-visualizer",
+  "title": "Roll Visualizer",
+  "description": "a dice visualizer",
+  "author": "Nova",
+  "version": "1.0.3",
+  "minimumCoreVersion": "0.7.0",
+  "esmodules": [
+    "index.js"
+  ],
+  "url": "https://github.com/cramt/roll-visualizer",
+  "manifest": "https://raw.githubusercontent.com/cramt/roll-visualizer/main/static/module.json",
+  "download": "https://codeload.github.com/cramt/roll-visualizer/zip/refs/heads/build"
+}
