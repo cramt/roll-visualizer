@@ -31,6 +31,8 @@
     "dotenv": "^9.0.2"
   },
   "dependencies": {
-    "dice_distribution": "cramt/dice_distribution#build_bundler"
+    "dice_distribution": "cramt/dice_distribution#build_bundler",
+    "chart.js": "^3.7.1",
+    "@types/chart.js": "^2.9.35"
   }
 }
